@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lcckedheartx&color=D1EFDC&style=for-the-badge&label=ִֶָ🪽་༘&base=0" />
+  <img src="https://komarev.com/ghpvc/?username=lcckedheartx&color=A79F9C&style=for-the-badge&label=ִֶָ🪽་༘&base=0" />
 </p>
 
 ![image alt](https://file.garden/adzUU9OgJyYOaMk9/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%81144_20261122212721.png)
 
 <p align="center">
   <a href="https://fuyuka.atabook.org/">
-    <img src="https://img.shields.io/badge/atabook-A290DC?style=for-the-badge" alt="Static Badge">
+    <img src="https://img.shields.io/badge/atabook-4D4747?style=for-the-badge" alt="Static Badge">
 </p>    
